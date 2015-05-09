@@ -1,0 +1,57 @@
+<html>
+
+<head>
+<title>Tarea2</title>
+</head>
+
+
+<body>
+
+<body bgcolor="#000080">
+
+<TABLE ALIGN="center"  BORDER="10">
+
+<TR>
+<TH>
+<FONT COLOR="white">
+NOMBRE
+</FONT>
+</TH>
+
+
+<TH>
+<FONT COLOR="white">
+CARNET
+</FONT>
+</TH>
+
+<TH>
+<FONT COLOR="white">
+IMAGEN
+</FONT>
+</TH>
+</TR>
+
+<TR>
+
+<TD>
+<FONT COLOR="YELLOW">
+SALVADOR DE JESUS LOPEZ BAUTISTA
+</FONT>
+</TD>
+
+<TD>
+<FONT COLOR="YELLOW">
+201314059
+</FONT>
+</TD>
+
+<TD>
+<img
+src="I1.jpg" WIDTH=100>
+</TD>
+</TR>
+
+</table>
+</body>
+</html>
